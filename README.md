@@ -8,7 +8,7 @@
 
 ###  Sobre Mim 🤓
 
-Me chamo Samarina, tenho 24 anos, gosto de café, gatinhos, jogos, música e tecnologia! Sou estudante de Análise e Desenvolvimento de Sistemas, estou aprofundando meus conhecimentos em Python com foco em Análise de Dados. Sou apaixonada por limpeza de dados, pois acredito no poder de transformar informações brutas em insights claros e valiosos. Busco constantemente novos desafios para aplicar e expandir minhas habilidades em projetos significativos.
+Me chamo Samarina, tenho 25 anos, gosto de café, gatinhos, jogos, música e tecnologia! Sou estudante de Análise e Desenvolvimento de Sistemas, estou aprofundando meus conhecimentos em Python com foco em Análise de Dados. Sou apaixonada por limpeza de dados, pois acredito no poder de transformar informações brutas em insights claros e valiosos. Busco constantemente novos desafios para aplicar e expandir minhas habilidades em projetos significativos.
 
 ---
 
