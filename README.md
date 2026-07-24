@@ -1,30 +1,49 @@
-<div align="center">
-   <img src="https://github.com/user-attachments/assets/b5964558-3ecd-4a8c-89f2-c345cd9c7790" alt="Header" width="400"/>
-</div>
 
-<h1 align="center">Olá, eu sou a Sam! 👋❣</h1>
 
 ---
 
-###  Sobre Mim 🤓
+###  Sobre Mim 
 
-Me chamo Samarina, tenho 25 anos, gosto de café, gatinhos, jogos, música e tecnologia! Sou estudante de Análise e Desenvolvimento de Sistemas, estou aprofundando meus conhecimentos em Python com foco em Análise de Dados. Sou apaixonada por limpeza de dados, pois acredito no poder de transformar informações brutas em insights claros e valiosos. Busco constantemente novos desafios para aplicar e expandir minhas habilidades em projetos significativos.
+Sou estagiária de Análise e Desenvolvimento de Sistemas, atuando no desenvolvimento de soluções para otimizar a rotina do setor de análise. Atualmente estou no último período de Análise e Desenvolvimento de Sistemas e busco aplicar a tecnologia para resolver problemas reais, automatizar processos e aprimorar processos internos.
+
+Meu maior interesse está na parte estrutural dos sistemas: bancos de dados, desenvolvimento backend, integrações e segurança da informação. Gosto de compreender como o código funciona por trás das aplicações, como os dados são armazenados, protegidos e processados, e de que forma uma arquitetura bem construída contribui para sistemas seguros, eficientes e confiáveis. Tenho especial interesse em Java e em tecnologias voltadas ao desenvolvimento de soluções robustas.
+
+Também curso Redes de Computadores para ampliar meus conhecimentos sobre infraestrutura, comunicação entre sistemas e segurança, complementando minha formação e minha área de interesse.
+
+Tenho um perfil altamente analítico e gosto de relacionar dados de diferentes fontes para identificar padrões, gerar informações úteis e desenvolver soluções que tornem os processos mais eficientes. Embora já tenha desenvolvido dashboards e outras ferramentas para apoiar a rotina do setor, meu principal interesse está na lógica, na estrutura e na engenharia por trás dos sistemas, muito mais do que na construção de interfaces visuais.
+
+Estou sempre em busca de novos desafios que me permitam aprofundar meus conhecimentos em bancos de dados, arquitetura de sistemas, backend e segurança, contribuindo para o desenvolvimento de soluções cada vez mais robustas e confiáveis.
+
+
 
 ---
 
 ### 👾🤖 Minhas Habilidades
 
-<h4 align="left">Linguagens & Ferramentas de Análise de Dados:</h4>
+<h4 align="left">Backend & Banco de Dados:</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
-  <img src="https://img.shields.io/badge/Seaborn-blue?style=flat&logo=seaborn&logoColor=white" alt="Seaborn Badge" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white" alt="Looker Studio Badge" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white" alt="REST API Badge" />
+</p>
+
+<h4 align="left">Ferramentas & Tecnologias:</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman Badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white" alt="pgAdmin Badge" />
+</p>
+
+<h4 align="left">Conhecimentos:</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Modelagem_de_Dados-006699?style=flat" alt="Modelagem de Dados Badge" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-336791?style=flat" alt="Banco de Dados Badge" />
+  <img src="https://img.shields.io/badge/Análise_de_Sistemas-2E8B57?style=flat" alt="Análise de Sistemas Badge" />
+  <img src="https://img.shields.io/badge/Integração_de_Sistemas-6A5ACD?style=flat" alt="Integração de Sistemas Badge" />
+  <img src="https://img.shields.io/badge/Desenvolvimento_Backend-5C2D91?style=flat" alt="Backend Badge" />
 </p>
 
 <h4 align="left">Conhecimentos Básicos (Frontend):</h4>
@@ -36,16 +55,15 @@ Me chamo Samarina, tenho 25 anos, gosto de café, gatinhos, jogos, música e tec
 
 ---
 
-### 📈 O que estou estudando agora
+### 📈 Atualmente estudando
 
-Estou aprofundando meus conhecimentos em **Python** e em **Power BI** para criar dashboards mais dinâmicos e eficientes, e explorando bibliotecas de visualização de dados como **Matplotlib** e **Seaborn**.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allukasz7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allukasz7&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
+- ☕ Java (aprofundamento em Backend)
+- 🗄️ SQL e PostgreSQL
+- 🌐 APIs REST
+- 🔐 Segurança da Informação
+- 🌐 Redes de Computadores
+- 🏛️ Arquitetura de Sistemas
+- 🐍 Python para automação e análise de dados
 
 ---
 
