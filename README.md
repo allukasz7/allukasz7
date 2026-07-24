@@ -20,51 +20,50 @@ Estou sempre em busca de novos desafios que me permitam aprofundar meus conhecim
 
 ### 👾🤖 Minhas Habilidades
 
-<h4 align="left">Backend & Banco de Dados:</h4>
+<h4 align="left">💻 Desenvolvimento & Banco de Dados</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white" alt="REST API Badge" />
-</p>
-
-<h4 align="left">Ferramentas & Tecnologias:</h4>
-<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat" alt="REST API Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
+</p>
+
+<h4 align="left">🛠️ Ferramentas do dia a dia</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ Badge" />
+  <img src="https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white" alt="Zendesk Badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira Badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman Badge" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel Badge" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white" alt="pgAdmin Badge" />
 </p>
 
-<h4 align="left">Conhecimentos:</h4>
+<h4 align="left">🧠 Conhecimentos</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Modelagem_de_Dados-006699?style=flat" alt="Modelagem de Dados Badge" />
-  <img src="https://img.shields.io/badge/Banco_de_Dados-336791?style=flat" alt="Banco de Dados Badge" />
   <img src="https://img.shields.io/badge/Análise_de_Sistemas-2E8B57?style=flat" alt="Análise de Sistemas Badge" />
-  <img src="https://img.shields.io/badge/Integração_de_Sistemas-6A5ACD?style=flat" alt="Integração de Sistemas Badge" />
-  <img src="https://img.shields.io/badge/Desenvolvimento_Backend-5C2D91?style=flat" alt="Backend Badge" />
-</p>
-
-<h4 align="left">Conhecimentos Básicos (Frontend):</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-336791?style=flat" alt="Banco de Dados Badge" />
+  <img src="https://img.shields.io/badge/SQL_Queries-4479A1?style=flat" alt="SQL Queries Badge" />
+  <img src="https://img.shields.io/badge/Integração_de_APIs-009688?style=flat" alt="Integração de APIs Badge" />
+  <img src="https://img.shields.io/badge/Leitura_de_Logs-8A2BE2?style=flat" alt="Leitura de Logs Badge" />
+  <img src="https://img.shields.io/badge/Análise_de_Chamados-0052CC?style=flat" alt="Análise de Chamados Badge" />
+  <img src="https://img.shields.io/badge/Modelagem_de_Dados-006699?style=flat" alt="Modelagem de Dados Badge" />
+  <img src="https://img.shields.io/badge/Backend-5C2D91?style=flat" alt="Backend Badge" />
+  <img src="https://img.shields.io/badge/Documentação_Técnica-6A5ACD?style=flat" alt="Documentação Técnica Badge" />
+  <img src="https://img.shields.io/badge/Análise_de_Processos-20B2AA?style=flat" alt="Análise de Processos Badge" />
 </p>
 
 ---
 
-### 📈 Atualmente estudando
+### 📚 Atualmente estudando
 
-- ☕ Java (aprofundamento em Backend)
-- 🗄️ SQL e PostgreSQL
-- 🌐 APIs REST
+- ☕ Java (Backend)
+- 🗄️ SQL Avançado e Modelagem de Banco de Dados
 - 🔐 Segurança da Informação
 - 🌐 Redes de Computadores
-- 🏛️ Arquitetura de Sistemas
-- 🐍 Python para automação e análise de dados
-
+- ⚙️ Arquitetura de Software
+- 🐍 Python
 ---
 
 ### 💬 Vamos Conversar?
